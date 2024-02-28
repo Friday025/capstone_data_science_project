@@ -91,8 +91,8 @@ df = new_df.copy()
 numeric_column = ['year','selling_price','km_driven']
 categorical_column = ['fuel','seller_type','transmission','owner','brand','model']
 
-brand_names = data['brand'].tolist()
-model_names = data['model'].tolist()
+brand_names = data['brand'].nunique().tolist()
+model_names = data['model'].nunique().tolist()
 
 pickle.dump(brand_names,open('brand_name.pkl','wb'))
 pickle.dump(model_names,open('model_name.pkl','wb'))
