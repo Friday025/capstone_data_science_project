@@ -55,5 +55,6 @@ input_data = pd.DataFrame({
 if st.sidebar.button('prediction'):
    
     prediction = best_model.predict(input_data)
-    st.success(f'Predicted Selling Price: {prediction[0]:.2f} INR')
+    predict_price = math.ceil(prediction[0]/1000)
+    st.success(f'Predicted Selling Price: {predict_price} lakh INR')
 
