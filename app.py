@@ -5,21 +5,37 @@ from sklearn.preprocessing import LabelEncoder
 import math
 
 
+
+
 best_model = pickle.load(open('best_model.pkl','rb'))
 
 brand_names = pickle.load(open('brand_name.pkl','rb'))
 model_names = pickle.load(open('model_name.pkl','rb'))
 
+cleaned_data = pd.read_csv('cleaned_car_data.csv')
+
 st.title('Car Price Prediction')
-st.sidebar.title('Enter Car Details')
-year = st.sidebar.number_input('year', min_value= 2000, max_value=2022, step=1)
-km_driven = st.sidebar.number_input('Kilometers Driven', min_value=0)
-fuel = st.sidebar.selectbox('Fuel Type', {'Petrol': 1, 'Diesel': 2, 'CNG':3})
-seller_type = st.sidebar.selectbox('Seller Type', ['Dealer', 'Individual'])
-transmission = st.sidebar.selectbox('Transmission', ['Manual', 'Automatic'])
-owner = st.sidebar.selectbox('Owner', ['First Owner', 'Second Owner', 'Third Owner', 'Fourth & Above Owner'])
-brand = st.sidebar.selectbox('Brand', brand_names)
-model = st.sidebar.selectbox('Model', model_names)
+# st.sidebar.title('Enter Car Details')
+
+col1, col2 = st.columns(2)
+
+# Input fields for the first column
+with col1:
+    year = st.slider('Year', min_value= cleaned_data['year'].min(), max_value= cleaned_data['year'].max())
+    km_driven = st.slider('Kilometers Driven', min_value=cleaned_data['km_driven'].min(), max_value=cleaned_data['km_driven'].max())
+    fuel = st.selectbox('Fuel Type', cleaned_data['fuel'].unique())
+    seller_type = st.selectbox('Seller Type', cleaned_data['seller_type'].unique())
+
+# Input fields for the second column
+with col2:
+    transmission = st.selectbox('Transmission', cleaned_data['transmission'].unique())
+    owner = st.selectbox('Owner', cleaned_data['owner'].unique())
+    brand = st.selectbox('Brand', cleaned_data['brand'].unique())
+    brand_filter = cleaned_data[cleaned_data['brand'] == brand]
+    model = st.selectbox('Model', brand_filter['model'].unique())
+
+
+
 
 input_data = pd.DataFrame({
     'year' : [year],
@@ -52,7 +68,7 @@ input_data = pd.DataFrame({
         'model' : [model_encoded]
     })
 
-if st.sidebar.button('prediction'):
+if st.button('prediction'):
    
     prediction = best_model.predict(input_data)
     # predict_price = math.ceil(prediction[0]/1000)
