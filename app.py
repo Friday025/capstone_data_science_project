@@ -68,9 +68,25 @@ input_data = pd.DataFrame({
         'model' : [model_encoded]
     })
 
-if st.button('prediction'):
-   
-    prediction = best_model.predict(input_data)
-    # predict_price = math.ceil(prediction[0]/1000)
-    st.success(f'Predicted Selling Price: {prediction[0]}  INR')
+# Function to retrieve selling price for selected model
+def get_selling_price(model):
+    selling_price = cleaned_data.loc[cleaned_data['model'] == model, 'selling_price'].values
+    if len(selling_price) > 0:
+        return selling_price[0]
+    else:
+        return None
 
+
+if st.button('prediction'):
+   # Make prediction
+    prediction = best_model.predict(input_data)
+    predicted_selling_price = prediction[0]
+
+    # Retrieve actual selling price for the selected model
+    actual_selling_price = get_selling_price(model)
+    
+    if actual_selling_price is not None:
+        st.success(f'Predicted Selling Price: {predicted_selling_price:.2f} INR')
+        st.success(f'Actual Selling Price: {actual_selling_price:.2f} INR')
+    else:
+        st.error("Actual selling price not available for the selected car model.")
