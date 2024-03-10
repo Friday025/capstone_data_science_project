@@ -68,6 +68,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2015,350000,53000,Diesel,Individual,Manual,Second Owner,Fiat,Avventura MULTIJET Emotion
 2017,210000,15000,Petrol,Dealer,Manual,Second Owner,Datsun,RediGO 1.0 S
 2013,450000,50000,Petrol,Individual,Manual,First Owner,Volkswagen,Jetta 1.4 TSI Comfortline
+2013,1150000,53000,Diesel,Dealer,Automatic,First Owner,Audi,A4 2.0 TDI 177 Bhp Premium Plus
 2009,210000,63500,Petrol,Dealer,Automatic,First Owner,Honda,Civic 1.8 V AT
 2008,175000,29173,Petrol,Dealer,Manual,First Owner,Maruti,SX4 Zxi BSIII
 2017,628000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
@@ -104,6 +105,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2012,130000,80000,Petrol,Individual,Manual,First Owner,Chevrolet,Spark 1.0 LS
 2015,200000,70000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
 2011,120000,70000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua TDI BSIII
+2003,75000,57000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LP zipPlus
 2016,250000,120000,Diesel,Individual,Manual,First Owner,Tata,Bolt Quadrajet XE
 2005,100000,30000,Petrol,Individual,Manual,First Owner,Maruti,800 AC BSIII
 2013,280000,3240,Petrol,Individual,Manual,Second Owner,Hyundai,EON Era Plus
@@ -111,6 +113,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2018,700000,10000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Asta
 2015,525000,100000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz VDi Plus
 2016,430000,80000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta 1.4 CRDi
+2002,65000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LE
 2018,800000,35000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza VDi
 2007,75000,114000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XL eRLX Euro III
 2008,210000,53772,Petrol,Individual,Manual,First Owner,Hyundai,Getz 1.3 GLS
@@ -146,6 +149,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2009,280000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 Asta
 2018,430000,30000,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XM
 2019,800000,15000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2003,75000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Zen D
 2016,650000,70000,Diesel,Individual,Automatic,First Owner,Volkswagen,Vento Celeste 1.5 TDI Highline AT
 2017,390000,24000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
 2005,100000,120000,Petrol,Individual,Manual,Second Owner,Honda,City 1.5 EXI
@@ -168,6 +172,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2016,685000,60000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz ZDi SHVS
 2018,940000,2650,Diesel,Dealer,Manual,First Owner,Skoda,Rapid 1.5 TDI Ambition BSIV
 2017,1000000,40000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2019,1150000,15000,Petrol,Dealer,Manual,First Owner,Mahindra,XUV300 W8 Option
 2016,450000,115962,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS ZDI
 2015,590000,65000,Diesel,Dealer,Manual,First Owner,Nissan,Terrano XE D
 2017,800000,40000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Facelift
@@ -185,6 +190,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2008,125000,80000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi BSIII
 2008,225000,60000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Zxi with Leather BSIII
 2011,175000,139000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Era
+2011,1075000,160000,Diesel,Individual,Manual,Second Owner,Toyota,Innova 2.5 V Diesel 7-seater
 2014,300000,150000,Diesel,Individual,Manual,First Owner,Honda,Mobilio V i DTEC
 2010,700000,163000,Diesel,Individual,Manual,Fourth & Above Owner,Toyota,Innova 2.5 G (Diesel) 7 Seater BS IV
 2009,90000,120000,Diesel,Dealer,Manual,First Owner,Tata,Indica V2 2001-2011 DLS BSIII
@@ -208,10 +214,12 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2013,290000,49000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GL Plus
 2006,115999,100000,Diesel,Individual,Manual,Second Owner,Tata,Sumo GX TC 7 Str BSIII
 2018,360000,26500,Petrol,Individual,Manual,First Owner,Renault,KWID RXT
+2002,65000,100000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
 2017,685000,72000,Diesel,Dealer,Manual,First Owner,Maruti,Vitara Brezza LDi Option
 2009,300000,50000,Petrol,Individual,Manual,First Owner,Honda,Jazz S
 2017,680000,44000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 1.4 Sportz
 2017,1000000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS ZDI Plus
+2002,100000,120000,Diesel,Individual,Manual,First Owner,Tata,Sumo SE Plus BSIII
 2010,160000,130000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo E4
 2017,450000,70000,Diesel,Individual,Manual,First Owner,Maruti,Swift ZDi BSIV
 2014,600000,20000,Petrol,Individual,Manual,First Owner,Maruti,Ertiga VXI
@@ -258,6 +266,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2009,180000,46730,Petrol,Individual,Manual,First Owner,Maruti,A-Star Vxi
 2015,250000,40000,Petrol,Individual,Manual,Second Owner,Datsun,GO A
 2011,350000,80000,Diesel,Individual,Manual,First Owner,Skoda,Yeti Ambition 4WD
+2002,60000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LXi BSII
 2018,900000,24000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 EX
 2017,700000,21170,Diesel,Dealer,Manual,First Owner,Ford,Aspire Titanium Diesel BSIV
 2017,1000000,40000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS ZDI Plus
@@ -272,14 +281,17 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2011,600000,149674,Diesel,Dealer,Manual,Second Owner,Ford,Endeavour Titanium 4X2
 2007,370000,100000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio 2.6 Turbo 9 Str
 2006,80000,120000,Petrol,Individual,Manual,Third Owner,Maruti,Baleno Vxi
+2003,50000,120000,Diesel,Individual,Manual,Second Owner,Tata,Indica DLX
 2018,900000,25000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 EX
 2014,300000,35000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2002,125000,40000,Petrol,Individual,Manual,First Owner,Tata,Indica LSI
 2015,490000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
 2012,300000,50000,Diesel,Individual,Manual,Second Owner,Toyota,Etios Liva GD
 2013,55000,25000,Petrol,Individual,Manual,Fourth & Above Owner,Tata,Nano STD
 2016,350000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
 2019,755000,8000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Asta
 2017,720000,60000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS VDI
+2018,1100000,20000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S7 140 BSIV
 2013,400000,100000,Petrol,Individual,Manual,First Owner,Volkswagen,Polo Petrol Comfortline 1.2L
 2015,350000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Xcent 1.1 CRDi Base
 2012,159000,68000,Diesel,Dealer,Manual,First Owner,Chevrolet,Beat Diesel PS
@@ -387,6 +399,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2012,350000,77000,Diesel,Individual,Manual,First Owner,Volkswagen,Polo Diesel Trendline 1.2L
 2008,195000,90000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi
 2011,225000,80000,Petrol,Individual,Manual,Second Owner,Chevrolet,Beat LS
+2015,1125000,65000,Diesel,Individual,Manual,First Owner,Toyota,Innova 2.5 G (Diesel) 7 Seater
 2011,133000,80000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LX
 2013,200000,24005,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
 2018,940000,20000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi Plus
@@ -452,6 +465,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2012,565000,72000,Diesel,Dealer,Manual,First Owner,Mahindra,Scorpio VLX 2WD AIRBAG SE BSIV
 2014,525000,65000,Diesel,Dealer,Manual,First Owner,Renault,Duster 110PS Diesel RxL
 2015,295000,21000,Petrol,Dealer,Manual,Second Owner,Hyundai,EON Era Plus
+2017,1100000,10000,Petrol,Individual,Automatic,First Owner,Hyundai,Verna VTVT 1.6 AT SX Option
 2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
 2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
 2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
@@ -460,6 +474,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2016,450000,39415,Petrol,Trustmark Dealer,Automatic,Second Owner,Maruti,Celerio VXI AMT BSIV
 2014,425000,29654,Petrol,Trustmark Dealer,Manual,First Owner,Honda,Brio V MT
 2016,770000,64672,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2015,1150000,54634,Diesel,Trustmark Dealer,Automatic,Second Owner,Hyundai,Creta 1.6 SX Automatic Diesel
 2015,775000,66521,Petrol,Trustmark Dealer,Manual,First Owner,Honda,City i VTEC V
 2013,450000,1000,Diesel,Dealer,Manual,Second Owner,Renault,Duster 85PS Diesel RxL
 2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
@@ -577,6 +592,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2018,325000,20629,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus
 2015,400000,30000,Petrol,Individual,Automatic,First Owner,Hyundai,Grand i10 AT Asta
 2015,550000,69782,Petrol,Dealer,Manual,First Owner,Maruti,Ciaz VXi
+2003,98000,54000,Petrol,Individual,Manual,First Owner,Maruti,800 Std
 2013,900000,63654,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 4WD
 2017,700000,60000,Diesel,Individual,Manual,First Owner,Renault,Lodgy 85PS RxL
 2015,890000,52000,Diesel,Dealer,Manual,First Owner,Mahindra,Scorpio S6 Plus 7 Seater
@@ -622,6 +638,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,500000,40000,Petrol,Individual,Automatic,First Owner,Maruti,Ciaz 1.4 AT Zeta
 2015,600000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S4 4WD
 2013,300000,25000,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C8
+2018,1150000,26430,Diesel,Dealer,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
 2015,475000,24600,Petrol,Dealer,Manual,First Owner,Maruti,Swift 1.3 VXI ABS
 2011,260000,28481,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
 2013,350000,100000,Petrol,Individual,Manual,First Owner,Ford,Ecosport 1.0 Ecoboost Titanium Optional
@@ -645,6 +662,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2016,220000,60000,Petrol,Individual,Manual,Third Owner,Renault,KWID RXL
 2012,480000,120000,Diesel,Individual,Manual,Fourth & Above Owner,Maruti,Ertiga ZDI
 2017,370000,82000,Petrol,Individual,Automatic,First Owner,Maruti,Celerio ZXI Optional AMT BSIV
+2003,55000,35000,Diesel,Individual,Manual,Second Owner,Fiat,Palio D 1.9 EL PS
 2011,260000,125000,Diesel,Individual,Manual,Third Owner,Hyundai,Verna 1.6 CRDI
 2015,350000,130000,Diesel,Individual,Manual,First Owner,Fiat,Linea Classic 1.3 Multijet
 2012,170000,97000,CNG,Individual,Manual,Second Owner,Maruti,Alto 800 CNG LXI
@@ -774,6 +792,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2018,550000,35000,Petrol,Individual,Manual,First Owner,Ford,Figo Aspire 1.2 Ti-VCT Trend
 2012,650000,71042,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 4WD
 2011,195000,133564,Diesel,Dealer,Manual,First Owner,Ford,Fiesta 1.5 TDCi Titanium
+2018,1140000,23038,Petrol,Trustmark Dealer,Automatic,First Owner,Honda,City i-VTEC CVT ZX
 2011,95000,70000,Diesel,Individual,Manual,First Owner,Chevrolet,Beat Diesel LS
 2017,585000,43608,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Baleno Delta 1.2
 2018,825000,11212,Petrol,Trustmark Dealer,Automatic,First Owner,Maruti,Baleno Alpha CVT
@@ -781,6 +800,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2016,725000,49217,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Baleno Zeta
 2015,300000,90000,Diesel,Individual,Manual,First Owner,Mahindra,Verito 1.5 D4 BSIV
 2015,375000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 Kappa S
+2003,310000,90000,Petrol,Individual,Manual,Fourth & Above Owner,Honda,City VTEC
 2012,400000,80000,Diesel,Individual,Manual,Second Owner,Tata,Xenon XT EX 4X2
 2014,550000,80000,Diesel,Individual,Manual,Second Owner,Nissan,Terrano XL Plus 85 PS
 2018,270000,20000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
@@ -808,6 +828,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,540000,20000,Petrol,Individual,Manual,Second Owner,Hyundai,Grand i10 Asta Option
 2016,425000,25000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON G80 K2
 2008,140000,120000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo Sports
+2019,1100000,30000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga ZDI Plus
 2015,715000,35000,Diesel,Individual,Manual,First Owner,Renault,Lodgy 85PS RxL
 2018,400000,54000,Petrol,Dealer,Manual,Second Owner,Tata,Zest Revotron 1.2T XMS
 2005,114999,90000,Petrol,Dealer,Manual,Second Owner,Hyundai,Santro Xing XL eRLX Euro III
@@ -839,6 +860,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2010,99000,70000,Petrol,Individual,Manual,First Owner,Tata,Indica GLS BS IV
 2018,1015000,20000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
 2011,520000,120000,Diesel,Individual,Manual,First Owner,Toyota,Innova Crysta 2.5 VX BS IV
+2018,1100000,30000,Diesel,Individual,Automatic,First Owner,Hyundai,Verna CRDi 1.6 AT SX Option
 2016,525000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
 2016,500000,40000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Asta 1.2
 2016,675000,161327,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S2 7 Seater
@@ -930,6 +952,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2011,60000,40000,Petrol,Individual,Manual,First Owner,Tata,Nano Lx
 2011,390000,150000,Diesel,Individual,Manual,Fourth & Above Owner,Mahindra,Bolero SLX 2WD BSIII
 2016,630000,50000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T4
+2018,1085000,15000,Diesel,Individual,Manual,First Owner,Tata,Safari Storme VX Varicor 400
 2012,190000,60000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna 1.2 iTech SE
 2018,550000,25000,Petrol,Individual,Automatic,First Owner,Maruti,Baleno Delta Automatic
 2012,200000,90000,Petrol,Individual,Manual,Third Owner,Maruti,Alto 800 LXI
@@ -1060,6 +1083,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2008,125000,102000,Petrol,Dealer,Manual,First Owner,Maruti,Alto LXi BSIII
 2014,725000,110000,Diesel,Individual,Manual,First Owner,Honda,City i DTEC SV
 2011,170000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 2010-2014 VXI
+2003,70000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BSIII
 2007,100000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
 2006,300000,80000,Petrol,Individual,Manual,Second Owner,Honda,Civic 1.8 (E) MT
 2013,450000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI
@@ -1133,9 +1157,11 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2008,155000,60000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,i10 Magna 1.1
 2015,550000,90000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta 1.4 CRDi
 2009,130000,70000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R LX BSIII
+2002,80000,70000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
 2015,500000,80000,Diesel,Individual,Manual,Second Owner,Toyota,Etios Cross 1.4L GD
 2019,250000,27000,Petrol,Individual,Manual,First Owner,Renault,KWID RXT BSIV
 2012,580000,70000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2002,60000,50000,Petrol,Individual,Manual,First Owner,Daewoo,Matiz SD
 2014,200000,90000,Diesel,Individual,Manual,Second Owner,Ford,Figo Diesel Titanium
 2015,350000,80000,Diesel,Individual,Manual,Second Owner,Toyota,Etios Cross 1.4L GD
 2012,600000,80000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 4WD
@@ -1230,6 +1256,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2011,290000,60000,Diesel,Individual,Manual,Second Owner,Volkswagen,Polo Diesel Highline 1.2L
 2013,350000,70000,Petrol,Individual,Manual,First Owner,Fiat,Linea Dynamic
 2014,110000,25000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2003,70000,80000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro LE zipPlus
 2011,300000,70000,Petrol,Individual,Automatic,Third Owner,Volkswagen,Vento Petrol Highline AT
 2017,180000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LX
 2020,300000,20000,Petrol,Individual,Manual,First Owner,Renault,KWID RXL
@@ -1278,6 +1305,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,780000,31063,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ciaz 1.4 Alpha
 2015,850000,58692,Diesel,Trustmark Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
 2015,900000,54784,Diesel,Trustmark Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2016,1150000,64156,Petrol,Trustmark Dealer,Manual,First Owner,Toyota,Corolla Altis GL MT
 2007,75000,54000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Lxi - BSIII
 2012,215000,97000,Diesel,Individual,Manual,First Owner,Volkswagen,Vento Diesel Comfortline
 2009,130000,120000,Petrol,Individual,Automatic,Second Owner,Maruti,SX4 ZXI AT
@@ -1399,6 +1427,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2018,1000000,40000,Diesel,Individual,Manual,First Owner,Renault,Captur 1.5 Diesel RXT Mono
 2007,170000,70000,Petrol,Individual,Manual,Third Owner,Honda,Civic 1.8 S MT
 2020,828999,1010,Petrol,Dealer,Manual,Test Drive Car,Ford,Aspire Titanium BSIV
+2020,1119000,1010,Petrol,Dealer,Manual,Test Drive Car,Ford,EcoSport 1.5 Ti VCT MT Titanium BE BSIV
 2020,746000,1111,Petrol,Dealer,Manual,Test Drive Car,Ford,Figo Titanium
 2020,1030000,1010,Petrol,Dealer,Manual,Test Drive Car,Ford,Ecosport 1.5 Petrol Trend
 2020,811999,1010,Petrol,Dealer,Manual,Test Drive Car,Ford,Freestyle Titanium
@@ -1415,6 +1444,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2013,213000,80000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI BS IV
 2018,660000,25000,Diesel,Individual,Manual,First Owner,Volkswagen,Ameo 1.5 TDI Highline Plus 16
 2017,415000,48965,Petrol,Dealer,Manual,First Owner,Nissan,Micra XL
+2019,1100000,5166,Petrol,Dealer,Manual,Test Drive Car,Ford,Ecosport 1.5 Petrol Titanium Plus
 2012,650000,76290,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 4WD
 2016,969999,70000,Diesel,Individual,Automatic,Second Owner,Mahindra,XUV500 AT W10 AWD
 2017,715000,25000,Diesel,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT VDI
@@ -1494,6 +1524,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,750000,40000,Diesel,Individual,Automatic,First Owner,Skoda,Rapid 1.5 TDI AT Ambition BSIV
 2019,725000,22000,Diesel,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT VDI
 2007,100000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2019,1100000,40000,Diesel,Individual,Manual,First Owner,Tata,Hexa XT
 2016,280000,23000,Petrol,Individual,Manual,First Owner,Renault,KWID RXT Optional
 2009,150000,30000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua TDI BSIII
 2010,200000,50000,Petrol,Individual,Manual,First Owner,Tata,Manza Aura Safire
@@ -1509,11 +1540,13 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2013,250000,35000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
 2010,250000,80000,Diesel,Individual,Manual,First Owner,Tata,New Safari DICOR 2.2 EX 4x2
 2005,125000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI BSIII
+2002,100000,80000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Alto LXi BSII
 2010,480000,90000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio M2DI
 2018,320000,30000,Petrol,Individual,Manual,Second Owner,Mahindra,KUV 100 G80 K2
 2010,130000,70000,Petrol,Individual,Manual,Second Owner,Maruti,A-Star Vxi
 2006,57000,80000,Diesel,Individual,Manual,Second Owner,Tata,Indica DLS
 2005,75000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Santro GLS I - Euro I
+2003,60000,35000,Petrol,Individual,Manual,First Owner,Maruti,800 DX
 2008,125000,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi BSIII
 2004,105000,100000,Petrol,Individual,Manual,Third Owner,Honda,City 1.5 EXI S
 2008,125000,152000,LPG,Individual,Manual,Second Owner,Maruti,Wagon R LXI DUO BSIII
@@ -1583,6 +1616,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2010,221000,51000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
 2016,381000,38000,Diesel,Dealer,Manual,First Owner,Tata,Tiago 1.05 Revotorq XE
 2015,250999,35000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2002,60000,120000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro LS zipPlus
 2016,380000,38000,Diesel,Dealer,Manual,First Owner,Tata,Tiago 1.05 Revotorq XE
 2008,180000,144000,Diesel,Individual,Manual,Third Owner,Skoda,Laura L n K 1.9 PD
 2017,751000,64000,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz ZDi Plus
@@ -1604,8 +1638,10 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2019,375000,10000,Petrol,Individual,Manual,First Owner,Renault,KWID RXL
 2012,215000,70000,Petrol,Individual,Manual,Second Owner,Hyundai,EON Era Plus
 2009,150000,110000,Diesel,Individual,Manual,Second Owner,Ford,Fiesta 1.4 ZXi TDCi ABS
+2003,60000,5000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXI
 2012,280000,110000,Diesel,Individual,Manual,Fourth & Above Owner,Tata,New Safari Dicor EX 4X2 BS IV
 2016,450000,50000,Diesel,Individual,Manual,Second Owner,Toyota,Etios VD
+2018,1150000,58000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W7
 2018,650000,15000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Delta 1.3
 2015,300000,60000,Petrol,Individual,Manual,Second Owner,Tata,Zest Revotron 1.2T XE
 2015,73000,57000,Petrol,Individual,Manual,First Owner,Tata,Nano Twist XT
@@ -1682,6 +1718,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2014,550000,82000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
 2015,370000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
 2010,114999,70000,Petrol,Individual,Manual,Second Owner,Chevrolet,Beat LT
+2020,1100000,1000,Petrol,Individual,Manual,First Owner,Ford,Ecosport Sports Petrol
 2008,80000,150000,Diesel,Individual,Manual,Third Owner,Tata,Indigo TDI
 2019,950000,17000,Diesel,Individual,Manual,First Owner,Ford,EcoSport 1.5 Diesel Titanium BSIV
 2014,425000,150000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
@@ -1702,6 +1739,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2004,142000,73000,Petrol,Individual,Manual,Fourth & Above Owner,OpelCorsa,1.6Gls
 2014,180000,76000,Petrol,Individual,Manual,Second Owner,Hyundai,EON D Lite
 2014,400000,120000,Diesel,Individual,Manual,Second Owner,Chevrolet,Tavera Neo 3 Max 9 Str BSIII
+2003,85000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XG
 2016,350000,63400,Petrol,Individual,Manual,First Owner,Honda,Brio 1.2 S MT
 2015,380000,25000,Petrol,Individual,Manual,First Owner,Datsun,GO Plus T BSIV
 2009,140000,80000,Petrol,Individual,Manual,Third Owner,Hyundai,i10 Era
@@ -1712,12 +1750,14 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2011,200000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 2010-2014 VXI
 2009,110000,38500,Petrol,Individual,Manual,Second Owner,Chevrolet,Aveo U-VA 1.2 LT WO ABS Airbag
 2008,140000,103921,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna
+2018,1150000,14825,Petrol,Dealer,Manual,First Owner,Honda,City i-VTEC VX
 2016,910000,43377,Diesel,Dealer,Manual,First Owner,Honda,BR-V i-DTEC VX MT
 2010,160000,102307,Diesel,Dealer,Manual,First Owner,Ford,Figo Diesel Titanium
 2004,105000,79000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LX
 2004,70000,90000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R LXI
 2012,160000,110000,Diesel,Individual,Manual,First Owner,Chevrolet,Beat Diesel
 2013,225000,80000,Diesel,Individual,Manual,First Owner,Chevrolet,Sail Hatchback LT ABS
+2002,145000,100000,Petrol,Individual,Manual,First Owner,Honda,City 1.3 EXI
 2018,930000,20000,Diesel,Individual,Manual,First Owner,Ford,EcoSport 1.5 Diesel Titanium Plus BSIV
 2008,110000,154000,Diesel,Individual,Manual,Third Owner,Hyundai,Getz 1.5 CRDi GVS
 2017,650000,40000,Diesel,Individual,Manual,First Owner,Renault,Lodgy Stepway 85PS RXZ 8S
@@ -1732,6 +1772,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2016,300000,30000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XE
 2012,250000,8000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 Base
 2019,500000,10000,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XM
+2002,85000,100000,Diesel,Individual,Manual,Third Owner,Hyundai,Accent CRDi
 2012,300000,110000,Diesel,Individual,Manual,First Owner,Nissan,Sunny Diesel XL
 2015,740000,45000,Diesel,Dealer,Automatic,First Owner,Mahindra,XUV500 AT W8 FWD
 2005,70000,68500,Petrol,Dealer,Manual,First Owner,Hyundai,Santro Xing XG
@@ -1766,7 +1807,9 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2005,75000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI
 2012,440000,70000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 Asta (o) 1.4 CRDi (Diesel)
 2013,270000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
+2014,1150000,135000,Diesel,Dealer,Manual,First Owner,Toyota,Innova 2.5 V Diesel 7-seater
 2015,238000,70000,Petrol,Dealer,Manual,First Owner,Maruti,Omni 8 Seater BSII
+2013,1100000,40000,Petrol,Individual,Automatic,Second Owner,Mercedes-Benz,B Class B180 Sports
 2010,260000,150000,Diesel,Individual,Manual,First Owner,Skoda,Fabia 1.2L Diesel Ambiente
 2012,350000,140000,Diesel,Individual,Manual,Third Owner,Toyota,Etios VD
 2015,480000,70000,Diesel,Individual,Manual,First Owner,Toyota,Etios Liva VD
@@ -1786,6 +1829,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2015,325000,80000,Diesel,Individual,Manual,First Owner,Maruti,SX4 S Cross DDiS 320 Delta
 2017,600000,90000,Diesel,Individual,Manual,First Owner,Renault,Duster 85PS Diesel RxZ
 2018,700000,30000,Petrol,Individual,Manual,First Owner,Maruti,Swift ZXI Plus
+2003,95000,120000,Petrol,Individual,Automatic,Second Owner,Toyota,Corolla H3
 2019,490000,20000,Petrol,Dealer,Manual,First Owner,Maruti,Celerio ZXI
 2013,380000,100000,Diesel,Individual,Manual,First Owner,Tata,Safari DICOR 2.2 EX 4x2
 2018,550000,31000,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz Dual Tone
@@ -1839,6 +1883,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2009,150000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDi
 2015,300000,104000,Diesel,Individual,Manual,Second Owner,Honda,Amaze E i-Dtech
 2011,150000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire LXi
+2003,120000,132343,Petrol,Individual,Manual,Second Owner,Honda,City 1.3 EXI
 2016,950000,90000,Diesel,Individual,Manual,Second Owner,Hyundai,Creta 1.4 CRDi S Plus
 2007,100000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
 2015,450000,76000,Diesel,Individual,Manual,First Owner,Honda,Jazz 1.5 SV i DTEC
@@ -1900,6 +1945,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2010,400000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Magna 1.2
 2012,295000,80000,Diesel,Individual,Manual,Second Owner,Tata,Manza Aura (ABS) Quadrajet BS IV
 2006,60000,135000,LPG,Individual,Manual,Fourth & Above Owner,Maruti,Omni LPG STD BSIV
+2003,110000,120000,Diesel,Individual,Manual,Third Owner,Maruti,Zen D PS
 2015,550000,113600,Diesel,Individual,Manual,First Owner,Fiat,Linea 1.3 Multijet Emotion
 2008,190000,70000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing GLS
 2018,861999,20000,Diesel,Dealer,Manual,First Owner,Ford,Aspire Titanium Plus Diesel BSIV
@@ -1928,6 +1974,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,350000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI Optional
 2012,200000,70000,Diesel,Individual,Manual,Second Owner,Chevrolet,Beat Diesel LT
 2012,150000,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Sportz
+2003,75000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Zen D PS
 2013,350000,90000,Diesel,Individual,Manual,Second Owner,Honda,Amaze EX i-Dtech
 2011,890000,86000,Diesel,Individual,Automatic,Second Owner,BMW,X1 sDrive20d
 2014,500000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio M2DI
@@ -1967,6 +2014,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2018,640000,25000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
 2007,160000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
 2018,750000,70000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Zeta 1.3
+2002,150000,50000,Diesel,Individual,Manual,Third Owner,Mahindra,Jeep MM 550 XDB
 2008,80000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Alto STD
 2016,240000,90000,Diesel,Individual,Manual,Third Owner,Maruti,Celerio VDi
 2005,60000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Esteem Lxi
@@ -2001,10 +2049,12 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,350000,55000,Petrol,Individual,Manual,First Owner,Renault,KWID 1.0
 2018,511000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 VTVT E Plus
 2012,300000,80000,Diesel,Individual,Manual,First Owner,Maruti,Ritz VDi
+2010,1100000,110000,Petrol,Individual,Automatic,First Owner,Audi,Q5 2.0 TFSI Quattro
 2010,125000,60000,Petrol,Individual,Manual,Third Owner,Hyundai,i10 Sportz 1.2
 2018,500000,30000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XZ
 2013,385000,80000,Diesel,Individual,Manual,Second Owner,Renault,Duster 85PS Diesel RxL
 2012,350000,90000,Petrol,Individual,Manual,First Owner,Skoda,Rapid 1.6 MPI Elegance
+2003,60000,50000,Petrol,Individual,Manual,First Owner,Maruti,800 Std BSIII
 2012,300000,50000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
 2012,400000,70000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 CRDi Asta
 2014,550000,110000,Diesel,Individual,Manual,First Owner,Ford,Ecosport 1.5 DV5 MT Titanium
@@ -2090,6 +2140,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2010,280000,120000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi SX
 2017,600000,120000,Diesel,Individual,Manual,First Owner,Maruti,Swift DDiS VDI
 2013,210000,120000,Diesel,Individual,Manual,Third Owner,Skoda,Rapid 1.6 TDI Ambition
+2014,1150000,110000,Diesel,Individual,Automatic,Second Owner,Audi,Q3 2.0 TDI Quattro Premium Plus
 2018,245000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
 2016,375000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
 2015,150000,55000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 1.99 S10
@@ -2113,6 +2164,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2015,400000,40000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI Optional
 2008,130000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi BSIII
 2013,300000,70000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 CRDe SLE
+2019,1100000,4000,Diesel,Individual,Manual,First Owner,Nissan,Kicks XL D BSIV
 2018,800000,13500,Petrol,Dealer,Manual,First Owner,Honda,Amaze VX i-VTEC
 2013,490000,40000,Diesel,Individual,Manual,First Owner,Maruti,Ritz VDI (ABS) BS IV
 2018,836000,9700,Petrol,Dealer,Manual,First Owner,Honda,Jazz 1.2 VX i VTEC
@@ -2138,6 +2190,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2019,650000,20000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
 2017,280000,37000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LX
 2016,540000,80000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2002,50000,120000,Diesel,Individual,Manual,Fourth & Above Owner,Ambassador,Classic 2000 Dsz
 2018,800000,20000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz Sigma BSIV
 2016,515000,25000,Diesel,Individual,Manual,First Owner,Ford,Figo 1.5D Titanium MT
 2010,220000,96000,Petrol,Individual,Manual,Third Owner,Hyundai,i20 1.2 Magna
@@ -2182,6 +2235,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2016,400000,80000,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C4
 2010,250000,80000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aura 1.3 Quadrajet BSIV
 2008,150000,50000,Petrol,Individual,Manual,Third Owner,Tata,Indigo GLX
+2002,80000,70000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro LP zipPlus
 2014,325000,70000,Diesel,Individual,Automatic,First Owner,Volkswagen,Vento 1.5 TDI Comfortline AT
 2019,738000,8000,Petrol,Individual,Automatic,First Owner,Hyundai,Elite i20 Sportz Plus CVT BSIV
 2016,300000,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
@@ -2351,6 +2405,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2008,195000,56000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna
 2007,130000,98000,Diesel,Individual,Manual,Second Owner,Ford,Fiesta Classic 1.4 SXI Duratorq
 2011,300000,135000,Diesel,Individual,Manual,Second Owner,Toyota,Etios VD
+2002,120000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Alto VXi
 2010,450000,120000,Diesel,Individual,Manual,Third Owner,Toyota,Innova 2.5 G3
 2010,160000,102000,Diesel,Individual,Manual,Second Owner,Tata,Indigo LS
 2018,800000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
@@ -2377,6 +2432,8 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,550000,100000,Diesel,Individual,Manual,First Owner,Ford,Figo Aspire 1.5 TDCi Ambiente ABS
 2011,260000,97000,Diesel,Individual,Manual,Third Owner,Volkswagen,Vento Diesel Highline
 2015,420000,100000,Diesel,Individual,Manual,First Owner,Renault,Pulse RxZ
+2002,35000,100000,Petrol,Individual,Manual,Third Owner,OpelCorsa,1.4 GL
+2018,1150000,20000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W7 BSIV
 2017,680000,46000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz 1.4 Zeta
 2012,425000,40000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
 2014,450000,70000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire LDI
@@ -2467,6 +2524,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,350000,80000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.2 CRDi E
 2017,635000,25000,Petrol,Dealer,Automatic,First Owner,Hyundai,Elite i20 Asta Option CVT BSIV
 2012,325000,40700,Petrol,Individual,Manual,First Owner,Honda,City S
+2017,1150000,65500,Diesel,Dealer,Automatic,First Owner,Mahindra,XUV500 AT W10 1.99 mHawk
 2008,110000,42000,Petrol,Dealer,Manual,First Owner,Tata,Indigo GLE BSIII
 2018,890000,8000,Petrol,Dealer,Manual,First Owner,Honda,City 1.5 V MT
 2007,73000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Swift 1.3 LXI
@@ -2504,6 +2562,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2012,270000,60000,Diesel,Individual,Manual,First Owner,Tata,Manza Club Class Quadrajet90 EX
 2018,400000,35000,Diesel,Individual,Manual,First Owner,Tata,Tiago 1.05 Revotorq XZ Plus
 2015,260000,40000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Optional
+2003,48000,50000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,Santro LE zipPlus
 2015,100000,23800,Petrol,Individual,Manual,Second Owner,Tata,Nano Twist XE
 2015,490000,70000,Diesel,Individual,Manual,First Owner,Nissan,Terrano XL Plus 85 PS
 2010,120000,90000,LPG,Individual,Manual,Second Owner,Maruti,Wagon R Duo Lxi
@@ -2538,6 +2597,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,619000,40000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.2
 2011,335000,90000,Diesel,Individual,Manual,Second Owner,Chevrolet,Cruze LTZ
 2006,500000,50000,Diesel,Individual,Manual,First Owner,Toyota,Innova 2.5 G (Diesel) 8 Seater BS IV
+2003,60000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LX
 2013,270000,70000,Diesel,Individual,Manual,Second Owner,Tata,Indigo TDI
 2010,225000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
 2011,150000,160000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 ZXI MT BSIV
@@ -2582,6 +2642,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2012,193000,45000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GLS
 2015,800000,10000,Petrol,Individual,Manual,First Owner,Honda,City i VTEC V
 2008,150000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2002,80000,40000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,800 AC
 2010,130000,100000,Diesel,Individual,Manual,Third Owner,Ford,Figo Diesel EXI
 2012,280000,80000,Diesel,Individual,Manual,Second Owner,Ford,Figo Diesel EXI
 2011,229999,110000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo D2 BS IV
@@ -2639,6 +2700,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2011,160000,120000,Diesel,Individual,Manual,First Owner,Nissan,Micra Diesel XV Premium
 2008,110000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
 2011,450000,110000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLX 4WD BSIII
+2003,120000,165000,Petrol,Individual,Manual,Second Owner,Honda,City 1.3 DX
 2018,1040000,42000,Diesel,Individual,Manual,First Owner,Honda,BR-V i-DTEC VX MT
 2014,390000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Grand i10 CRDi Sportz
 2011,65000,60000,Petrol,Individual,Manual,Second Owner,Tata,Nano Lx BSIII
@@ -2660,6 +2722,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2009,275000,155000,Diesel,Individual,Automatic,Third Owner,Mahindra,Scorpio VLX 2WD AT BSIV
 2017,740000,60000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 Sportz
 2017,800000,90000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2019,1100000,100000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
 2012,750000,100000,Diesel,Individual,Automatic,Second Owner,BMW,X1 sDrive20d
 2012,200000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 2010-2014 VXI
 2009,210000,75000,Diesel,Individual,Manual,First Owner,Tata,Spacio SA 6 Seater
@@ -2674,6 +2737,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2007,900000,76731,Diesel,Dealer,Automatic,First Owner,Mercedes-Benz,E-Class 280 CDI
 2016,685000,64000,Diesel,Dealer,Manual,First Owner,Maruti,Swift ZDI
 2014,540000,65000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI BSIV
+2018,1165000,13000,Petrol,Dealer,Automatic,Test Drive Car,Honda,City i-VTEC CVT ZX
 2014,610000,77000,Diesel,Dealer,Manual,First Owner,Ford,Ecosport 1.5 DV5 MT Titanium Optional
 2011,254999,24000,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era
 2014,280000,63840,Petrol,Dealer,Manual,First Owner,Nissan,Micra Active XV
@@ -2740,6 +2804,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2014,295000,38500,Petrol,Individual,Manual,First Owner,Hyundai,i10 Magna 1.1L
 2011,220000,25000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz
 2013,250000,35000,Diesel,Individual,Manual,First Owner,Ford,Classic 1.4 Duratorq LXI
+2009,1100000,110000,Diesel,Individual,Manual,Second Owner,Toyota,Fortuner 3.0 Diesel
 2012,300000,40000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 VTVT
 2007,80000,110000,Petrol,Individual,Manual,Second Owner,Chevrolet,Aveo U-VA 1.2
 2013,215000,20000,Diesel,Individual,Manual,Third Owner,Chevrolet,Beat Diesel LT
@@ -2791,6 +2856,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2010,320000,60000,Diesel,Individual,Manual,Third Owner,Chevrolet,Cruze LTZ
 2017,300000,13000,Petrol,Individual,Manual,Second Owner,Renault,KWID 1.0 RXT Optional
 2016,1000000,60000,Diesel,Individual,Manual,First Owner,Nissan,Terrano XL Plus ICC WT20 SE
+2012,1090000,120000,Diesel,Individual,Manual,Second Owner,Mitsubishi,Pajero Sport 4X4
 2012,450000,97000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 GX 4x2 BS IV
 2007,60000,130000,Petrol,Individual,Manual,Second Owner,Tata,Indica GLS BS IV
 2013,500000,50000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire ZXI
@@ -2885,6 +2951,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,350000,80000,Petrol,Individual,Manual,First Owner,Datsun,GO Plus T Option
 2012,310000,92686,Diesel,Dealer,Manual,Second Owner,Hyundai,i20 Magna 1.4 CRDi (Diesel)
 2011,350000,90000,Petrol,Individual,Manual,Second Owner,Volkswagen,Vento Petrol Highline
+2003,100000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LS zipPlus
 2014,280000,55000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus Sports Edition
 2018,360000,6000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
 2011,150000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
@@ -2918,6 +2985,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2017,840000,30646,Petrol,Dealer,Manual,First Owner,Honda,BR-V i-VTEC VX MT
 2015,365000,23600,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI BS IV
 2014,665000,71318,Diesel,Dealer,Manual,First Owner,Honda,City i DTEC SV
+2003,50000,78098,Petrol,Individual,Manual,First Owner,Maruti,800 Std
 2014,225000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
 2012,229999,45000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Era
 2008,145000,67000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GL
@@ -2930,6 +2998,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2011,180000,120000,Diesel,Individual,Manual,First Owner,Tata,Indigo CS eLS BS IV
 2008,270000,120000,Diesel,Individual,Manual,Second Owner,Ford,Fiesta 1.4 SXi TDCi ABS
 2010,370000,97000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire VXi
+2018,1100000,70000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo H8 ABS with Airbags
 2004,120000,120000,Diesel,Individual,Manual,Second Owner,Hyundai,Accent CRDi
 2013,430000,88000,Diesel,Individual,Manual,Second Owner,Skoda,Rapid 1.6 TDI PRESTIGE
 2014,550000,38406,Diesel,Dealer,Manual,First Owner,Maruti,Swift ZDi
@@ -2972,6 +3041,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2019,335000,28000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI Optional
 2017,350000,51000,Petrol,Dealer,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
 2018,315000,56000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI Opt BSIV
+2019,1100000,35000,Diesel,Individual,Automatic,First Owner,Volkswagen,Vento 1.5 TDI Highline Plus AT BSIV
 2005,80000,24000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Lxi - BSIII
 2014,285000,64000,Petrol,Dealer,Manual,Second Owner,Maruti,Alto K10 VXI Optional
 2009,100000,120000,Diesel,Individual,Manual,Third Owner,Tata,Indigo TDI
@@ -2979,6 +3049,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2018,320000,38900,Petrol,Individual,Manual,Third Owner,Maruti,Alto K10 VXI
 2008,120000,110000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R LXI Minor
 2011,200000,100000,Diesel,Individual,Manual,Second Owner,Volkswagen,Vento Diesel Trendline
+2016,1151000,85000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
 2012,120000,140000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LS
 2017,220000,20000,Petrol,Individual,Manual,First Owner,Renault,KWID RXT
 2018,784000,40000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T10 Dual Tone
@@ -3025,6 +3096,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2011,330000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo E4
 2009,150000,80000,Petrol,Individual,Manual,First Owner,Maruti,Ritz VXI
 2016,927999,90000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2003,70000,60000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Zen LXI
 2015,399000,55000,Diesel,Dealer,Manual,First Owner,Hyundai,Xcent 1.2 CRDi SX
 2015,350000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI Optional
 2006,125000,50000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 CRDe
@@ -3045,6 +3117,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2014,421000,69000,Diesel,Dealer,Manual,First Owner,Honda,Amaze S i-Dtech
 2008,350000,10000,Petrol,Individual,Manual,First Owner,Maruti,SX4 Zxi BSIII
 2010,140000,110000,CNG,Individual,Manual,First Owner,Hyundai,Accent Executive CNG
+2002,90000,116000,Diesel,Individual,Manual,Second Owner,Skoda,Octavia Ambiente 1.9 TDI MT
 2018,830000,40000,Diesel,Individual,Manual,First Owner,Honda,City Edge Edition Diesel SV
 2009,180000,30000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
 2009,210000,109000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Vdi BSIII
@@ -3105,6 +3178,7 @@ year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand,model
 2011,350000,105000,Diesel,Dealer,Manual,First Owner,Maruti,SX4 ZDI
 2015,495000,105000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI BSIV
 2017,890000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS VDI
+2018,1100000,25000,Diesel,Individual,Automatic,Second Owner,Hyundai,Verna CRDi 1.6 AT EX
 2009,233000,58000,Petrol,Individual,Manual,Third Owner,Ford,Fiesta 1.6 ZXi Duratec
 2015,300000,110000,Diesel,Individual,Manual,Second Owner,Tata,Indigo CS LS (TDI) BS-III
 2020,614000,1000,Petrol,Individual,Manual,First Owner,Honda,Amaze S Petrol BSIV
